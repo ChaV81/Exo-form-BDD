@@ -21,5 +21,3 @@ ex à mettre entre deux balises php :
   ``
   $dbpassword = "mon_mot_de_passe_secret";  
 ``  
-
- Si à votre tour vous voulez partager ce dossier, noublier pas d'ajouter votre fichier params.php à un fichier .gitignore.
